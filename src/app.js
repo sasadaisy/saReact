@@ -19,4 +19,4 @@ class App extends React.Component {
 }
 
 
-ReactDOM.render(<App/>, document.getElementById('app'));
+ReactDOM.render(<ToDoApp />, document.getElementById('app'));
